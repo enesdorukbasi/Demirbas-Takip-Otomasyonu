@@ -1,0 +1,11 @@
+D:\Projeler\DemirbaşTakip\VarlıkKatmanı\bin\Debug\VarlıkKatmanı.dll
+D:\Projeler\DemirbaşTakip\VarlıkKatmanı\bin\Debug\VarlıkKatmanı.pdb
+D:\Projeler\DemirbaşTakip\VarlıkKatmanı\obj\Debug\VarlıkKatmanı.csprojAssemblyReference.cache
+D:\Projeler\DemirbaşTakip\VarlıkKatmanı\obj\Debug\VarlıkKatmanı.csproj.CoreCompileInputs.cache
+D:\Projeler\DemirbaşTakip\VarlıkKatmanı\obj\Debug\VarlıkKatmanı.dll
+D:\Projeler\DemirbaşTakip\VarlıkKatmanı\obj\Debug\VarlıkKatmanı.pdb
+C:\Users\Lenovo\Desktop\DemirbaşTakip\VarlıkKatmanı\bin\Debug\VarlıkKatmanı.dll
+C:\Users\Lenovo\Desktop\DemirbaşTakip\VarlıkKatmanı\bin\Debug\VarlıkKatmanı.pdb
+C:\Users\Lenovo\Desktop\DemirbaşTakip\VarlıkKatmanı\obj\Debug\VarlıkKatmanı.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\DemirbaşTakip\VarlıkKatmanı\obj\Debug\VarlıkKatmanı.dll
+C:\Users\Lenovo\Desktop\DemirbaşTakip\VarlıkKatmanı\obj\Debug\VarlıkKatmanı.pdb
